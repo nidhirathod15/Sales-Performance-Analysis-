@@ -16,7 +16,7 @@ To move beyond surface-level revenue tracking and answer:
 * **Total Profit:** ₹286,397
 * **Profit Ratio Range:** 7.9% – 14.9%
 * **12.5% Month-over-Month Sales Decline Identified**
-* 
+  
 ## Dashboard Components
 ### 1. KPI Summary
 
